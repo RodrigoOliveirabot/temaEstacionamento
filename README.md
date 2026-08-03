@@ -13,3 +13,5 @@ Requisitos nao funcionais: Interface moderna e simples de usar, Manutenibilidade
 
 Principal publico: Pessoas que nessecitam de um acompahamento confiavel para o seu carro dentro de um estacionamento, donos de estacionamento
                          
+Link do prototipo do figma:
+https://www.figma.com/proto/bpD6mZIAZ9H4joWTtchJSh/Prototipo-do-DESCANSADOR-DE-CARROS?node-id=0-1&t=xVZcSZZvQxI4KNAS-1
