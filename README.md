@@ -52,7 +52,7 @@ O acesso ao sistema é realizado via tela de login, onde o usuário é identific
 * RF02: Cadastro de Funcionários
 * RF03: Cadastro e Gestão de Vagas
 * RF04: Cadastro e Edição de Veículos
-* RF05: Reserva de Vagas (por Clientes e Funcionários)
+* RF05: Reserva de Vagas (por Clientes e Funcionários)  
 * RF06: Determinação e controle do tempo de permanência
 * RF07: Cálculo do valor referente ao tempo de permanência
 * RF08: Exibição em tempo real da quantidade de vagas disponíveis
@@ -61,13 +61,9 @@ O acesso ao sistema é realizado via tela de login, onde o usuário é identific
 
  Requisitos Não Funcionais (RNF)
 * RNF01 (Usabilidade): Interface moderna, intuitiva e de fácil navegação.
-  
 * RNF02 (Desempenho): Respostas rápidas e atualização imediata do status de vagas.
-  
 * RNF03 (Confiabilidade): Garantia da integridade dos dados de pagamentos e reservas.
-  
 * RNF04 (Disponibilidade): O sistema deve estar disponível continuamente para consultas e reservas.
-  
 * RNF05 (Manutenibilidade): Código modular para facilitar atualizações e correções futuras.
 
 ---
