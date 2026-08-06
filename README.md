@@ -40,7 +40,7 @@ O acesso ao sistema é realizado via tela de login, onde o usuário é identific
 
  👥 Principais Usuários (Atores)
 
-* Clientes:** Condutores de veículos que buscam reservar e pagar por vagas de forma prática.
+* Clientes: Condutores de veículos que buscam reservar e pagar por vagas de forma prática.
 * Funcionários / Operadores:** Profissionais responsáveis pela gestão diária do estacionamento, veículos e atendimento.
 
 ---
