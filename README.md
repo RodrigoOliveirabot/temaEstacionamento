@@ -23,7 +23,7 @@ O Descansador de Carros** é um sistema desenvolvido para otimizar a rotina de e
 
   Tecnologias Utilizadas
 
-* Linguagem / Framework:* C# 
+* Linguagem / Framework: C# 
 * Banco de Dados:* MySQL 
 * Prototipagem:* Figma 
 
