@@ -60,8 +60,8 @@ O acesso ao sistema é realizado via tela de login, onde o usuário é identific
 * RF10: Edição de dados de perfil (Cliente e Funcionário)
 
  Requisitos Não Funcionais (RNF)
-* RNF01 (Usabilidade): Interface moderna, intuitiva e de fácil navegação.
-* RNF02 (Desempenho): Respostas rápidas e atualização imediata do status de vagas.
+* RNF01 (Usabilidade): Interface intuitiva e de fácil navegação, para usuarios com um pre conhecimento em C#.
+* RNF02 (Desempenho): Respostas rápidas(40ms) e atualização de até 50ms para o status da vagas.
 * RNF03 (Confiabilidade): Garantia da integridade dos dados de pagamentos e reservas.
 * RNF04 (Disponibilidade): O sistema deve estar disponível continuamente para consultas e reservas.
 * RNF05 (Manutenibilidade): Código modular para facilitar atualizações e correções futuras.
