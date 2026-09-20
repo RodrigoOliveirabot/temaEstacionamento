@@ -5,7 +5,7 @@
  Ruan Gabriel Benatti
 
 Tema:
-Estacionamento — Gestão operacional e reservas para estacionamentos
+Estacionamento, Gestão operacional e reservas para estacionamentos
 
 Objetivo do Sistema:
 O Descansador de Carros é um sistema desenvolvido para otimizar a rotina de estacionamentos.Ele permite que os funcionários tenham controle total dos veículos estacionados e das operações do local, ao mesmo tempo em que oferece aos clientes a praticidade de reservar vagas antecipadamente.
@@ -40,12 +40,12 @@ Funcionários / Operadores:** Profissionais responsáveis pela gestão diária d
 9: Pagamento online da reserva (Perfil Cliente)
 10: Edição de dados de perfil (Cliente e Funcionário)
 
- Requisitos Não Funcionais (RNF)
-* RNF01 (Usabilidade): Interface intuitiva e de fácil navegação, para usuarios com um pre conhecimento em C#.
-* RNF02 (Desempenho): Respostas rápidas(40ms) e atualização de até 50ms para o status da vagas.
-* RNF03 (Confiabilidade): Garantia da integridade dos dados de pagamentos e reservas.
-* RNF04 (Disponibilidade): O sistema deve estar disponível continuamente para consultas e reservas.
-* RNF05 (Manutenibilidade): Código modular para facilitar atualizações e correções futuras.
+ Requisitos Não Funcionais:
+1:Interface deve permitir que um usuário sem treinamento prévio realize as operações principais: registrar entrada/saída de veículo, consultar vaga disponível
+2:É compativel com windows 10 ou superior.
+3: Transações de pagamento e reserva devem ser atômicas, assim passando todo valor ou nenhum
+4:O sistema deve estar disponível continuamente para consultas e reservas.
+5: Código bem separado para facilitar correções futuras.
 
 
   Protótipo das Telas:
